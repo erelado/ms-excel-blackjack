@@ -1,4 +1,4 @@
-![Project Preview Image](media/preview.png)
+![Project Preview Image](/media/preview.png)
 
 # Microsoft Excel Blackjack _(Twenty-One)_
 
