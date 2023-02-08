@@ -18,7 +18,7 @@ Whether an ace is worth 1 or 11 depends on the player. Face cards are worth 10 a
 
 The player goes first and decides whether to "stand" (not ask for another card) or "hit" (ask for another card in order to reach 21). Hence, a player may stand on their two cards or ask the dealer for additional cards, one at a time, until they either decide to stand on the total (if it is under 21) or go "bust" (if it is over 21).
 
-## Implementation
+## 🖨️ Implementation
 
 [Manually recalculating](https://support.microsoft.com/en-us/office/change-formula-recalculation-iteration-or-precision-in-excel-73fc7dac-91cf-4d36-86e8-67124f6bcce4) the cells in the sheets is the main option used in the implementation of the game. This option prevents circular references between functions and performs calculations only when the user manually presses the `F9` key.
 
@@ -61,7 +61,7 @@ Where the game itself takes place, serves as the user interface for the game.
 4. When you are done asking for more cards, change "Draw more" label to `STAND`.
 5. To find out who won, press `F9` one last time.
 
-## License
+## 📝 License
 
 Copyright © 2019, E-RELevant
 All rights reserved.
