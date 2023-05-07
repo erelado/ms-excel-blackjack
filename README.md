@@ -51,15 +51,19 @@ Where the game itself takes place, serves as the user interface for the game.
 
 ### Dependencies
 
-- Microsoft Office Excel 2003, or later.
+- Microsoft Office Excel 2007, or later.
 
-### Start a new game
+### Setup
 
 1. Launch the Microsoft Excel spreadsheet on the `Blackjack` sheet.
 2. Set the "Restart" label to `TRUE` and the "Draw more" label to `HIT`.
-3. To draw more cards, press `F9`.
-4. When you are done asking for more cards, change "Draw more" label to `STAND`.
-5. To find out who won, press `F9` one last time.
+3. Press `F9` once, then set the "Restart" label to `FALSE`.
+
+### How to play
+
+1. To draw more cards, press `F9` _(the "Draw more" label should be set to `HIT`)_.
+2. When you are done asking for more cards, change "Draw more" label to `STAND`.
+3. To find out who won, press `F9` one last time _(A message stating "you win/lose" will appear in the middle of the game table)_.
 
 ## 📝 License
 
