@@ -67,7 +67,7 @@ Where the game itself takes place, serves as the user interface for the game.
 
 ## 📝 License
 
-Copyright © 2019, E-RELevant
+Copyright © 2019, erelado
 All rights reserved.
 
 This source code is licensed under the GPL-v3.0 license found in the [LICENSE](LICENSE) file in the root directory of this source tree.
